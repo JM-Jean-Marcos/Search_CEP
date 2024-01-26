@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/JM-Jean-Marcos/Search_CEP.git/static/css/main.f7b45547.css",
-    "main.js": "/JM-Jean-Marcos/Search_CEP.git/static/js/main.934b19ac.js",
-    "static/js/787.b71ea7da.chunk.js": "/JM-Jean-Marcos/Search_CEP.git/static/js/787.b71ea7da.chunk.js",
-    "index.html": "/JM-Jean-Marcos/Search_CEP.git/index.html",
-    "main.f7b45547.css.map": "/JM-Jean-Marcos/Search_CEP.git/static/css/main.f7b45547.css.map",
-    "main.934b19ac.js.map": "/JM-Jean-Marcos/Search_CEP.git/static/js/main.934b19ac.js.map",
-    "787.b71ea7da.chunk.js.map": "/JM-Jean-Marcos/Search_CEP.git/static/js/787.b71ea7da.chunk.js.map"
+    "main.css": "/Search_CEP/static/css/main.f7b45547.css",
+    "main.js": "/Search_CEP/static/js/main.ad9d6b6b.js",
+    "static/js/787.b71ea7da.chunk.js": "/Search_CEP/static/js/787.b71ea7da.chunk.js",
+    "index.html": "/Search_CEP/index.html",
+    "main.f7b45547.css.map": "/Search_CEP/static/css/main.f7b45547.css.map",
+    "main.ad9d6b6b.js.map": "/Search_CEP/static/js/main.ad9d6b6b.js.map",
+    "787.b71ea7da.chunk.js.map": "/Search_CEP/static/js/787.b71ea7da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7b45547.css",
-    "static/js/main.934b19ac.js"
+    "static/js/main.ad9d6b6b.js"
   ]
 }
